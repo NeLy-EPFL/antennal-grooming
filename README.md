@@ -1,6 +1,6 @@
 # 🧠 Centralized brain networks underlie grooming body part coordination
 
-This repository holds code for reproducing the results from
+This repository provides the code for reproducing results from
 [**Centralized brain networks underlie grooming body part coordination**](https://www.biorxiv.org/content/10.1101/2024.12.17.628844v1).
 
 ---
@@ -13,7 +13,7 @@ The repository is organized as follows:
   Contains the paper figures.
 
 - `data/`
-  Contains data necessary for reproduction.
+  Contains the data necessary for reproduction.
 
 - `src/`
   Contains Jupyter notebooks for generating figures.
@@ -48,7 +48,7 @@ On a normal desktop computer with a stable internet connection, the installation
    conda create -n grooming python>=3.8
    conda activate grooming
    ```
-    Alternatively, you may use a Python virtual environment:
+    Alternatively, you can use a Python virtual environment:
    ```bash
    python -m venv env
    source env/bin/activate   # On Windows: env\Scripts\activate
@@ -68,7 +68,7 @@ No special hardware is needed to run the code to replicate the results.
    ```bash
    ./download_data.sh
    ```
-    Verify that the dataset is successfully downloaded and places under `/data`. If it fails, download the data manually through [this link](https://dataverse.harvard.edu/dataverse/ozdil_2024_antennal_grooming).
+    Verify that the dataset is successfully downloaded and placed under `/data`. If it fails, download the data manually using [this link](https://dataverse.harvard.edu/dataverse/ozdil_2024_antennal_grooming).
 
 2. **Navigate to the src folder and open the desired Jupyter notebook:**
    ```bash
@@ -84,15 +84,15 @@ No special hardware is needed to run the code to replicate the results.
 ---
 ## 👩‍💻 Other resources
 
-Data used in this paper have been obtained by using several other repositories:
+Data generated in this paper have been obtained using several other repositories:
 
 * **[kinematics3d](https://github.com/NeLy-EPFL/kinematics3d):** used to automate 2D & 3D pose estimation on video recordings, using DeepLabCut and Anipose. We used this repository in a separate virtual environment. Please refer to the repository for more information.
-* **[SeqIKPy](https://github.com/NeLy-EPFL/sequential-inverse-kinematics):** used to estimate the joint angles of the fly legs and antennae from 3D kinematics. Please refer to the repository for more information.
-**NOTE:** We used the `seqikpy` package in `kinematics3d` repository to estimate antennal grooming kinematics, used throughout the paper (Figs. 1,2,5).
+* **[SeqIKPy](https://github.com/NeLy-EPFL/sequential-inverse-kinematics):** used to estimate the joint angles of fly legs and antennae from 3D kinematics. Please refer to the repository for more information.
+**NOTE:** We used the `seqikpy` package in `kinematics3d` repository to estimate antennal grooming kinematics throughout the paper (Figs. 1,2,5).
 * **[FARMS](https://github.com/farmsim):** used to simulate the fly grooming kinematics in MuJoCo. Please refer to the repository for more information.
 **NOTE:** We used the `farms` package to perform kinematic replay experiments (Fig. 2).
 * **[FlyVis](https://github.com/gizemozd/flyvis):** used to train connectome-derived artificial neural networks to emulate grooming behavior. Please refer to the repository for more information.
-**NOTE:** We used the `flyvis` package to train the neural networks and perform neural perturbation experiments (Fig. 5,6). GPU is needed to run the training and analysis scripts.
+**NOTE:** We used the `flyvis` package to train neural networks and perform neural perturbation experiments (Fig. 5,6). A GPU is needed to run the training and analysis scripts.
 
 
 ---
