@@ -81,6 +81,7 @@ No special hardware is needed to run the code to replicate the results.
    ```bash
    ./generate_figures.sh
    ```
+   To generate all main figures, this script will take approximately 5 minutes.
 ---
 ## 👩‍💻 Other resources
 
@@ -93,7 +94,6 @@ Data generated in this paper have been obtained using several other repositories
 **NOTE:** We used the `farms` package to perform kinematic replay experiments (Fig. 2).
 * **[FlyVis](https://github.com/gizemozd/flyvis):** used to train connectome-derived artificial neural networks to emulate grooming behavior. Please refer to the repository for more information.
 **NOTE:** We used the `flyvis` package to train neural networks and perform neural perturbation experiments (Fig. 5,6). A GPU is needed to run the training and analysis scripts.
-
 
 ---
 ## 🐞 Questions
