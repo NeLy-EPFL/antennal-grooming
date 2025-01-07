@@ -17,7 +17,7 @@ The repository is organized as follows:
 
 - `src/`
   Contains Jupyter notebooks for generating figures.
-  - `FigureX.ipynb` – Notebook to generate Figure X.
+  - `FigureX.ipynb` – Notebook to generate Figure X. Expected outputs are shown in the beginning of each notebook.
   - `prepare_data/` – Additional code for preprocessing the data.
 
 - `results/`
@@ -36,7 +36,7 @@ The repository is organized as follows:
 
 ## ⚙️ Installation
 
-Follow these steps to set up your environment and get started:
+On a normal desktop computer with a stable internet connection, the installation usually takes about 5–10 minutes. Follow these steps to set up your environment and get started:
 
 1. **Clone the repository:**
    ```bash
@@ -61,6 +61,8 @@ Follow these steps to set up your environment and get started:
 
 ---
 ## 🚀 Usage Instructions
+
+No special hardware is needed to run the code to replicate the results.
 
 1. **Download the data necessary for running the code:**
    ```bash
@@ -90,7 +92,7 @@ Data used in this paper have been obtained by using several other repositories:
 * **[FARMS](https://github.com/farmsim):** used to simulate the fly grooming kinematics in MuJoCo. Please refer to the repository for more information.
 **NOTE:** We used the `farms` package to perform kinematic replay experiments (Fig. 2).
 * **[FlyVis](https://github.com/gizemozd/flyvis):** used to train connectome-derived artificial neural networks to emulate grooming behavior. Please refer to the repository for more information.
-**NOTE:** We used the `flyvis` package to train the neural networks and perform neural perturbation experiments (Fig. 5,6).
+**NOTE:** We used the `flyvis` package to train the neural networks and perform neural perturbation experiments (Fig. 5,6). GPU is needed to run the training and analysis scripts.
 
 
 ---
