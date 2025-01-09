@@ -69,7 +69,7 @@ No special hardware is needed to run the code to replicate the results.
    ./download_data.sh
    ```
     Verify that the dataset is successfully downloaded and placed under `/data`. Depending on your connection speed, this process might take about 30 minutes.
-    If it fails, download the data manually using [this link](https://dataverse.harvard.edu/dataverse/ozdil_2024_antennal_grooming).
+    If it fails, download the data manually using [this link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/N8ITTG#).
 
 2. **Navigate to the src folder and open the desired Jupyter notebook:**
    ```bash
