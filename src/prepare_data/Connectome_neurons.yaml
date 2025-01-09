@@ -1,0 +1,3825 @@
+NECK_MN:
+  NECK_MN1_L:
+    id: 720575940641811419
+    color: '#a3f7f6'
+    nt: excitatory
+    cell_type: CB0913
+  NECK_MN1_R:
+    id: 720575940628164612
+    color: '#a3f7f6'
+    nt: excitatory
+    cell_type: CB0913
+  NECK_MN2_L:
+    id: 720575940636044143
+    color: '#a3f7f6'
+    nt: excitatory
+    cell_type: CB0835
+  NECK_MN2_R:
+    id: 720575940616570966
+    color: '#a3f7f6'
+    nt: excitatory
+    cell_type: CB0835
+  NECK_MN3_L:
+    id: 720575940629464582
+    color: '#a3f7f6'
+    nt: excitatory
+    cell_type: CB0705
+  NECK_MN3_R:
+    id: 720575940624342569
+    color: '#a3f7f6'
+    nt: excitatory
+    cell_type: CB0705
+  NECK_MN4_L:
+    id: 720575940622008560
+    color: '#a3f7f6'
+    nt: excitatory
+    cell_type: CB0705
+  NECK_MN4_R:
+    id: 720575940607880578
+    color: '#a3f7f6'
+    nt: excitatory
+    cell_type: CB0705
+  NECK_MN5_L:
+    id: 720575940624679463
+    color: '#a3f7f6'
+    nt: excitatory
+    cell_type: CB0706
+  NECK_MN5_R:
+    id: 720575940631715896
+    color: '#a3f7f6'
+    nt: excitatory
+    cell_type: CB0706
+  NECK_MN6_L:
+    id: 720575940633710756
+    color: '#a3f7f6'
+    nt: excitatory
+    cell_type: CB0899
+  NECK_MN6_R:
+    id: 720575940650119289
+    color: '#a3f7f6'
+    nt: excitatory
+    cell_type: CB0838
+  NECK_MN7_L:
+    id: 720575940624943084
+    color: '#a3f7f6'
+    nt: excitatory
+    cell_type: CB0838
+  NECK_MN7_R:
+    id: 720575940631023099
+    color: '#a3f7f6'
+    nt: excitatory
+    cell_type: CB0899
+  NECK_MN8_L:
+    id: 720575940624117528
+    color: '#a3f7f6'
+    nt: excitatory
+    cell_type: .nan
+  NECK_MN8_R:
+    id: 720575940605287358
+    color: '#a3f7f6'
+    nt: excitatory
+    cell_type: .nan
+  NECK_MN9_L:
+    id: 720575940640640061
+    color: '#a3f7f6'
+    nt: excitatory
+    cell_type: CB0831
+  NECK_MN9_R:
+    id: 720575940623457535
+    color: '#a3f7f6'
+    nt: excitatory
+    cell_type: CB0831
+  NECK_MN10_L:
+    id: 720575940632898105
+    color: '#a3f7f6'
+    nt: excitatory
+    cell_type: CB0916
+  NECK_MN10_R:
+    id: 720575940634813536
+    color: '#a3f7f6'
+    nt: excitatory
+    cell_type: CB0916
+ANTEN_MN:
+  ANTEN_MN1_L:
+    id: 720575940621351412
+    color: '#30f0f0'
+    nt: excitatory
+    cell_type: CB0810
+  ANTEN_MN1_R:
+    id: 720575940611008718
+    color: '#30f0f0'
+    nt: excitatory
+    cell_type: CB0810
+  ANTEN_MN2_L:
+    id: 720575940639021757
+    color: '#30f0f0'
+    nt: excitatory
+    cell_type: CB0723
+  ANTEN_MN2_R:
+    id: 720575940622235930
+    color: '#30f0f0'
+    nt: excitatory
+    cell_type: CB0723
+  ANTEN_MN3_L:
+    id: 720575940629183643
+    color: '#30f0f0'
+    nt: excitatory
+    cell_type: CB0886
+  ANTEN_MN3_R:
+    id: 720575940615596850
+    color: '#30f0f0'
+    nt: excitatory
+    cell_type: CB0886
+  ANTEN_MN4_L:
+    id: 720575940610792290
+    color: '#30f0f0'
+    nt: excitatory
+    cell_type: CB0873
+  ANTEN_MN4_R:
+    id: 720575940620982966
+    color: '#30f0f0'
+    nt: excitatory
+    cell_type: CB0873
+  ANTEN_MN5_L:
+    id: 720575940623473335
+    color: '#30f0f0'
+    nt: excitatory
+    cell_type: CB0750
+  ANTEN_MN5_R:
+    id: 720575940637662697
+    color: '#30f0f0'
+    nt: excitatory
+    cell_type: CB0750
+ADN:
+  ADN1_L:
+    id: 720575940616185531
+    color: '#0a492f'
+    nt: excitatory
+    cell_type: DNge197
+  ADN1_R:
+    id: 720575940624319124
+    color: '#0a492f'
+    nt: excitatory
+    cell_type: DNge197
+  ADN2_L:
+    id: 720575940629806974
+    color: '#286e16'
+    nt: excitatory
+    cell_type: DNge078
+  ADN2_R:
+    id: 720575940636308075
+    color: '#286e16'
+    nt: excitatory
+    cell_type: DNge078
+  ADN3_L:
+    id: 720575940634229871
+    color: '#7ea44b'
+    nt: excitatory
+    cell_type: DNg21
+  ADN3_R:
+    id: 720575940612376805
+    color: '#7ea44b'
+    nt: excitatory
+    cell_type: DNg21
+ABN:
+  ABN1_L:
+    id: 720575940630907434
+    color: '#8B0001'
+    nt: excitatory
+    cell_type: SAD093
+  ABN1_R:
+    id: 720575940642666971
+    color: '#8B0001'
+    nt: excitatory
+    cell_type: SAD093
+  ABN2_1_L:
+    id: 720575940621355759
+    color: '#DA9101'
+    nt: excitatory
+    cell_type: CB1779
+  ABN2_1_R:
+    id: 720575940632057570
+    color: '#DA9101'
+    nt: excitatory
+    cell_type: CB1779
+  ABN2_2_L:
+    id: 720575940634683237
+    color: '#DA9101'
+    nt: excitatory
+    cell_type: CB1740
+  ABN2_2_R:
+    id: 720575940631253052
+    color: '#DA9101'
+    nt: excitatory
+    cell_type: CB1740
+  ABN2_3_L:
+    id: 720575940618961857
+    color: '#DA9101'
+    nt: excitatory
+    cell_type: CB3129
+  ABN2_3_R:
+    id: 720575940613432360
+    color: '#DA9101'
+    nt: excitatory
+    cell_type: CB3129
+  ABN3_1_L:
+    id: 720575940624378556
+    color: '#FEC201'
+    nt: excitatory
+    cell_type: CB1582
+  ABN3_1_R:
+    id: 720575940623253235
+    color: '#FEC201'
+    nt: excitatory
+    cell_type: CB1582
+  ABN3_2_L:
+    id: 720575940614581502
+    color: '#FEC201'
+    nt: excitatory
+    cell_type: CB1582
+  ABN3_2_R:
+    id: 720575940635608312
+    color: '#FEC201'
+    nt: excitatory
+    cell_type: CB1582
+WED:
+  WED1_L:
+    id: 720575940630713029
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1231
+  WED1_R:
+    id: 720575940614730663
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1231
+  WED2_L:
+    id: 720575940615541810
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1231
+  WED2_R:
+    id: 720575940628481798
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1231
+  WED3_L:
+    id: 720575940629584887
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1231
+  WED3_R:
+    id: 720575940631469610
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1231
+  WED4_L:
+    id: 720575940622188568
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1231
+  WED4_R:
+    id: 720575940615790658
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1231
+  WED5_L:
+    id: 720575940623484100
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1231
+  WED5_R:
+    id: 720575940624126537
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1231
+  WED6_L:
+    id: 720575940627585874
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1231
+  WED6_R:
+    id: 720575940635587576
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1231
+  WED7_L:
+    id: 720575940627939177
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1198
+  WED7_R:
+    id: 720575940630956375
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1198
+  WED8_L:
+    id: 720575940615625053
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1198
+  WED8_R:
+    id: 720575940615868485
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1065
+  WED9_L:
+    id: 720575940621533867
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1231
+  WED9_R:
+    id: 720575940628832004
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1231
+  WED10_L:
+    id: 720575940645497140
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1942
+  WED10_R:
+    id: 720575940622510788
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1942
+  WED11_L:
+    id: 720575940631706107
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: .nan
+  WED11_R:
+    id: 720575940626592387
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1231
+  WED12_L:
+    id: 720575940609944418
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1098
+  WED12_R:
+    id: 720575940625052942
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1231
+  WED13_L:
+    id: 720575940620859886
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1198
+  WED13_R:
+    id: 720575940612338674
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1969
+  WED14_L:
+    id: 720575940623090446
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1942
+  WED14_R:
+    id: 720575940619329957
+    color: '#FFBDDB'
+    nt: inhibitory
+    cell_type: CB1942
+12A_DN:
+  12A_DN2_L:
+    id: 720575940617074393
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_a
+  12A_DN2_R:
+    id: 720575940615958203
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_a
+  12A_DN3_L:
+    id: 720575940604930481
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge019
+  12A_DN3_R:
+    id: 720575940631987364
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_a
+  12A_DN4_L:
+    id: 720575940612019825
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_c
+  12A_DN4_R:
+    id: 720575940605282406
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_e
+  12A_DN5_L:
+    id: 720575940631035603
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge024
+  12A_DN5_R:
+    id: 720575940625642302
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge020
+  12A_DN7_L:
+    id: 720575940634198926
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge019
+  12A_DN7_R:
+    id: 720575940618393478
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge020
+  12A_DN9_L:
+    id: 720575940615623051
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_b
+  12A_DN9_R:
+    id: 720575940626527055
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_e
+  12A_DN11_L:
+    id: 720575940627814522
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_e
+  12A_DN11_R:
+    id: 720575940628241628
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_b
+  12A_DN12_L:
+    id: 720575940632698541
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_b
+  12A_DN12_R:
+    id: 720575940641781133
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_e
+  12A_DN15_L:
+    id: 720575940618762605
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_b
+  12A_DN15_R:
+    id: 720575940614642838
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge021
+  12A_DN16_L:
+    id: 720575940618147520
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_b
+  12A_DN16_R:
+    id: 720575940617390641
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_b
+  12A_DN18_L:
+    id: 720575940617993607
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_b
+  12A_DN18_R:
+    id: 720575940614129617
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge019
+  12A_DN19_L:
+    id: 720575940642926702
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_a
+  12A_DN19_R:
+    id: 720575940617554577
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_c
+  12A_DN20_L:
+    id: 720575940624394498
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_a
+  12A_DN20_R:
+    id: 720575940611939290
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_a
+  12A_DN21_L:
+    id: 720575940635175263
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_c
+  12A_DN21_R:
+    id: 720575940645032068
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge024
+  12A_DN22_L:
+    id: 720575940630221563
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge019
+  12A_DN22_R:
+    id: 720575940626399588
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_d
+  12A_DN23_L:
+    id: 720575940619133878
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge019
+  12A_DN23_R:
+    id: 720575940614588778
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_e
+  12A_DN24_L:
+    id: 720575940611700520
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_b
+  12A_DN24_R:
+    id: 720575940611807795
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge024
+  12A_DN25_L:
+    id: 720575940632620991
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge019
+  12A_DN25_R:
+    id: 720575940637530084
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge001
+  12A_DN28_L:
+    id: 720575940644659236
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge028
+  12A_DN28_R:
+    id: 720575940622386824
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge019
+  12A_DN29_L:
+    id: 720575940612427670
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_e
+  12A_DN29_R:
+    id: 720575940617792069
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge044
+  12A_DN30_L:
+    id: 720575940637501784
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_d
+  12A_DN30_R:
+    id: 720575940645032580
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_c
+  12A_DN31_L:
+    id: 720575940625422609
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_b
+  12A_DN31_R:
+    id: 720575940627417619
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_c
+  12A_DN32_L:
+    id: 720575940632355885
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge020
+  12A_DN32_R:
+    id: 720575940604727264
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge020
+  12A_DN33_L:
+    id: 720575940621181066
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge024
+  12A_DN33_R:
+    id: 720575940631518582
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_b
+  12A_DN34_L:
+    id: 720575940625872688
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_a
+  12A_DN34_R:
+    id: 720575940622351996
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge019
+  12A_DN35_L:
+    id: 720575940622797244
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_c
+  12A_DN35_R:
+    id: 720575940624106388
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge019
+  12A_DN36_L:
+    id: 720575940624484796
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge106
+  12A_DN36_R:
+    id: 720575940631108559
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_b
+  12A_DN37_L:
+    id: 720575940621767306
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_e
+  12A_DN37_R:
+    id: 720575940638810677
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_b
+  12A_DN38_L:
+    id: 720575940608960722
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_b
+  12A_DN38_R:
+    id: 720575940625253649
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_b
+  12A_DN39_L:
+    id: 720575940618947956
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge020
+  12A_DN39_R:
+    id: 720575940620149836
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_b
+  12A_DN41_L:
+    id: 720575940632302151
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge019
+  12A_DN41_R:
+    id: 720575940626834698
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg12_b
+DN:
+  DN1_L:
+    id: 720575940621319156
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge027
+  DN1_R:
+    id: 720575940617432065
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge027
+  DN2_L:
+    id: 720575940615666655
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge022
+  DN2_R:
+    id: 720575940639634304
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge022
+  DN3_L:
+    id: 720575940616400470
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge039
+  DN3_R:
+    id: 720575940621530117
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge039
+  DN4_L:
+    id: 720575940628125715
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge223
+  DN4_R:
+    id: 720575940627828552
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge223
+  DN5_L:
+    id: 720575940618574749
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg35
+  DN5_R:
+    id: 720575940629805950
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg35
+  DN6_L:
+    id: 720575940624651189
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge084
+  DN6_R:
+    id: 720575940638088511
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge084
+  DN7_L:
+    id: 720575940644473760
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge220
+  DN7_R:
+    id: 720575940639152361
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge220
+  DN8_L:
+    id: 720575940625306603
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge011
+  DN8_R:
+    id: 720575940610872014
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge011
+  DN9_L:
+    id: 720575940611308181
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg07
+  DN9_R:
+    id: 720575940615659521
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge091
+  DN10_L:
+    id: 720575940626729295
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg07
+  DN10_R:
+    id: 720575940621071495
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge091
+  DN11_L:
+    id: 720575940618440943
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge171a
+  DN11_R:
+    id: 720575940632037224
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge016
+  DN12_L:
+    id: 720575940619928346
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge171a
+  DN12_R:
+    id: 720575940618876830
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge171a
+  DN13_L:
+    id: 720575940634617952
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge192
+  DN13_R:
+    id: 720575940632634532
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge192
+  DN14_L:
+    id: 720575940644467360
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge133
+  DN14_R:
+    id: 720575940608716809
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge133
+  DN15_L:
+    id: 720575940637648485
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNg20
+  DN15_R:
+    id: 720575940633771745
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNg20
+  DN16_L:
+    id: 720575940631973207
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNg08_b
+  DN16_R:
+    id: 720575940630682618
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNg08_a
+  DN17_L:
+    id: 720575940616401467
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNg08_a
+  DN17_R:
+    id: 720575940622760269
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNg08_b
+  DN18_L:
+    id: 720575940622579967
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg29
+  DN18_R:
+    id: 720575940607761244
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg29
+  DN19_L:
+    id: 720575940636898270
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge145
+  DN19_R:
+    id: 720575940618427156
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge113
+  DN20_L:
+    id: 720575940625065653
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge091
+  DN20_R:
+    id: 720575940625426469
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg07
+  DN21_L:
+    id: 720575940626745987
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg07
+  DN21_R:
+    id: 720575940644801060
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg07
+  DN22_L:
+    id: 720575940611610670
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge091
+  DN22_R:
+    id: 720575940626027752
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg07
+  DN23_L:
+    id: 720575940611976618
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge111
+  DN23_R:
+    id: 720575940617295321
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge091
+  DN24_L:
+    id: 720575940612429714
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg07
+  DN24_R:
+    id: 720575940612288947
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg07
+  DN25_L:
+    id: 720575940629725545
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge091
+  DN25_R:
+    id: 720575940620110215
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge091
+  DN26_L:
+    id: 720575940623137212
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge044
+  DN26_R:
+    id: 720575940631632012
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge012
+  DN27_L:
+    id: 720575940617477022
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge091
+  DN27_R:
+    id: 720575940615495867
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge091
+  DN28_L:
+    id: 720575940621071017
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge093
+  DN28_R:
+    id: 720575940614682274
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge090
+  DN29_L:
+    id: 720575940611498419
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge111
+  DN29_R:
+    id: 720575940639539840
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg07
+  DN30_L:
+    id: 720575940628252751
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg07
+  DN30_R:
+    id: 720575940647478148
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg07
+  DN31_L:
+    id: 720575940636606554
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge091
+  DN31_R:
+    id: 720575940629139968
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge113
+  DN32_L:
+    id: 720575940621572890
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg07
+  DN32_R:
+    id: 720575940621339713
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg07
+  DN33_L:
+    id: 720575940614572906
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg06_a
+  DN33_R:
+    id: 720575940637966424
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg06_a
+  DN34_L:
+    id: 720575940614235323
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge029
+  DN34_R:
+    id: 720575940619077755
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge029
+  DN35_L:
+    id: 720575940628372613
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: CB0004
+  DN35_R:
+    id: 720575940620182181
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: CB0004
+  DN36_L:
+    id: 720575940622123400
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge091
+  DN36_R:
+    id: 720575940636104767
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge111
+  DN37_L:
+    id: 720575940612058543
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge145
+  DN37_R:
+    id: 720575940638019184
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge145
+  DN38_L:
+    id: 720575940604103084
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNp33
+  DN38_R:
+    id: 720575940633165452
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNp33
+  DN39_L:
+    id: 720575940630695798
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge060
+  DN39_R:
+    id: 720575940618291520
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge060
+  DN40_L:
+    id: 720575940621566844
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg22
+  DN40_R:
+    id: 720575940628030440
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg22
+  DN41_L:
+    id: 720575940645556334
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge217
+  DN41_R:
+    id: 720575940629012227
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge217
+  DN42_L:
+    id: 720575940620541099
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge054
+  DN42_R:
+    id: 720575940622161366
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge054
+  DN43_L:
+    id: 720575940631982952
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge132
+  DN43_R:
+    id: 720575940613838289
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge132
+  DN44_L:
+    id: 720575940627825923
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg15
+  DN44_R:
+    id: 720575940625870640
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNg15
+  DN45_L:
+    id: 720575940633293025
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge065
+  DN45_R:
+    id: 720575940627167516
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge065
+  DN46_L:
+    id: 720575940611881139
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge068
+  DN46_R:
+    id: 720575940615578043
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge068
+  DN47_L:
+    id: 720575940636761926
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNg08_a
+  DN47_R:
+    id: 720575940621471157
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNg08_a
+  DN48_L:
+    id: 720575940613816062
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge167
+  DN48_R:
+    id: 720575940625937340
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge167
+  DN49_L:
+    id: 720575940630059087
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge167
+  DN49_R:
+    id: 720575940629438508
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge167
+  DN50_L:
+    id: 720575940639705077
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge167
+  DN50_R:
+    id: 720575940628467830
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge167
+  DN51_L:
+    id: 720575940617035153
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge166
+  DN51_R:
+    id: 720575940626799920
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge166
+  DN52_L:
+    id: 720575940660269185
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge166
+  DN52_R:
+    id: 720575940622878719
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge166
+  DN53_L:
+    id: 720575940618051801
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNg08_a
+  DN53_R:
+    id: 720575940625376062
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNg08_a
+  DN54_L:
+    id: 720575940625187940
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge091
+  DN54_R:
+    id: 720575940638094911
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge091
+  DN55_L:
+    id: 720575940629956695
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNg07
+  DN55_R:
+    id: 720575940614181585
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNg07
+  DN56_L:
+    id: 720575940660220289
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge143
+  DN56_R:
+    id: 720575940634782359
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge143
+  DN57_L:
+    id: 720575940621923837
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge008
+  DN57_R:
+    id: 720575940623431571
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge008
+  DN58_L:
+    id: 720575940632626402
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge111
+  DN58_R:
+    id: 720575940631061900
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNge111
+  DN59_L:
+    id: 720575940620929483
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge167
+  DN59_R:
+    id: 720575940615898730
+    color: '#85bf9e'
+    nt: inhibitory
+    cell_type: DNge167
+  DN60_L:
+    id: 720575940655587489
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNpe062
+  DN60_R:
+    id: 720575940629586417
+    color: '#85bf9e'
+    nt: excitatory
+    cell_type: DNpe062
+IN:
+  IN1_L:
+    id: 720575940621405861
+    color: '#f9da8e'
+    nt: excitatory
+    cell_type: CB0957
+  IN1_R:
+    id: 720575940623134157
+    color: '#f9da8e'
+    nt: excitatory
+    cell_type: CB0957
+  IN2_L:
+    id: 720575940618816054
+    color: '#f9da8e'
+    nt: excitatory
+    cell_type: CB0957
+  IN2_R:
+    id: 720575940621368858
+    color: '#f9da8e'
+    nt: excitatory
+    cell_type: CB0957
+  IN3_L:
+    id: 720575940604705312
+    color: '#f9da8e'
+    nt: excitatory
+    cell_type: CB2282
+  IN3_R:
+    id: 720575940630753662
+    color: '#f9da8e'
+    nt: excitatory
+    cell_type: CB2115
+  IN4_L:
+    id: 720575940622042373
+    color: '#f9da8e'
+    nt: excitatory
+    cell_type: CB2115
+  IN4_R:
+    id: 720575940621009773
+    color: '#f9da8e'
+    nt: excitatory
+    cell_type: CB2115
+  IN5_L:
+    id: 720575940647075619
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0109
+  IN5_R:
+    id: 720575940625871408
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0109
+  IN6_L:
+    id: 720575940631153455
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: .nan
+  IN6_R:
+    id: 720575940620219585
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: .nan
+  IN7_L:
+    id: 720575940644072483
+    color: '#f9da8e'
+    nt: excitatory
+    cell_type: CB3533
+  IN7_R:
+    id: 720575940625454596
+    color: '#f9da8e'
+    nt: excitatory
+    cell_type: CB3437
+  IN8_L:
+    id: 720575940603195494
+    color: '#f9da8e'
+    nt: excitatory
+    cell_type: CB3646
+  IN8_R:
+    id: 720575940618409797
+    color: '#f9da8e'
+    nt: excitatory
+    cell_type: CB1076
+  IN9_L:
+    id: 720575940639696755
+    color: '#f9da8e'
+    nt: excitatory
+    cell_type: CB2558
+  IN9_R:
+    id: 720575940630131218
+    color: '#f9da8e'
+    nt: excitatory
+    cell_type: CB3673
+  IN10_L:
+    id: 720575940624245946
+    color: '#f9da8e'
+    nt: excitatory
+    cell_type: CB2558
+  IN10_R:
+    id: 720575940611388141
+    color: '#f9da8e'
+    nt: excitatory
+    cell_type: CB3673
+  IN11_L:
+    id: 720575940629063418
+    color: '#f9da8e'
+    nt: excitatory
+    cell_type: CB3533
+  IN11_R:
+    id: 720575940632122464
+    color: '#f9da8e'
+    nt: excitatory
+    cell_type: CB2558
+  IN12_L:
+    id: 720575940624344556
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0987
+  IN12_R:
+    id: 720575940655671713
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0399
+  IN13_L:
+    id: 720575940626803018
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB1978
+  IN13_R:
+    id: 720575940618155600
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB1978
+  IN14_L:
+    id: 720575940615422514
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB1978
+  IN14_R:
+    id: 720575940632360017
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB1978
+  IN15_L:
+    id: 720575940626405448
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB1978
+  IN15_R:
+    id: 720575940631882271
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB1978
+  IN16_L:
+    id: 720575940606038729
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB1978
+  IN16_R:
+    id: 720575940605498302
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB1978
+  IN17_L:
+    id: 720575940626465352
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0979
+  IN17_R:
+    id: 720575940624883898
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0979
+  IN18_L:
+    id: 720575940631553453
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0979
+  IN18_R:
+    id: 720575940620933067
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0979
+  IN19_L:
+    id: 720575940622919655
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0980
+  IN19_R:
+    id: 720575940632817768
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0980
+  IN20_L:
+    id: 720575940625537149
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB1978
+  IN20_R:
+    id: 720575940638719421
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0980
+  IN21_L:
+    id: 720575940613732049
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB1826
+  IN21_R:
+    id: 720575940623169313
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB1978
+  IN22_L:
+    id: 720575940640880984
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0980
+  IN22_R:
+    id: 720575940610656242
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0980
+  IN23_L:
+    id: 720575940614554930
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0980
+  IN23_R:
+    id: 720575940622341814
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0980
+  IN24_L:
+    id: 720575940619201403
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0980
+  IN24_R:
+    id: 720575940650006393
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0980
+  IN25_L:
+    id: 720575940626871025
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0978
+  IN25_R:
+    id: 720575940614605279
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB1826
+  IN26_L:
+    id: 720575940617140544
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0979
+  IN26_R:
+    id: 720575940621573500
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0979
+  IN27_L:
+    id: 720575940636058286
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0978
+  IN27_R:
+    id: 720575940623533459
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB1826
+  IN28_L:
+    id: 720575940618151128
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB2322
+  IN28_R:
+    id: 720575940626641916
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB3275
+  IN29_L:
+    id: 720575940625699992
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0979
+  IN29_R:
+    id: 720575940630501699
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0979
+  IN30_L:
+    id: 720575940636492358
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0980
+  IN30_R:
+    id: 720575940615085462
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0980
+  IN31_L:
+    id: 720575940626271260
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB3371
+  IN31_R:
+    id: 720575940635066778
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB3371
+  IN32_L:
+    id: 720575940611886066
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0978
+  IN32_R:
+    id: 720575940612248794
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0978
+  IN33_L:
+    id: 720575940622671655
+    color: '#f9da8e'
+    nt: excitatory
+    cell_type: CB1038
+  IN33_R:
+    id: 720575940647100548
+    color: '#f9da8e'
+    nt: excitatory
+    cell_type: CB1038
+  IN34_L:
+    id: 720575940626925391
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0986
+  IN34_R:
+    id: 720575940622897928
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0986
+  IN35_L:
+    id: 720575940613052131
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0986
+  IN35_R:
+    id: 720575940626053907
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0986
+  IN36_L:
+    id: 720575940632968760
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB1826
+  IN36_R:
+    id: 720575940627074703
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0978
+  IN37_L:
+    id: 720575940627467087
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0979
+  IN37_R:
+    id: 720575940634574943
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0979
+  IN38_L:
+    id: 720575940633774187
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0977
+  IN38_R:
+    id: 720575940632187729
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0977
+  IN39_L:
+    id: 720575940642378144
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0977
+  IN39_R:
+    id: 720575940622362109
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0977
+  IN40_L:
+    id: 720575940632256481
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0986
+  IN40_R:
+    id: 720575940651198710
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0986
+  IN41_L:
+    id: 720575940643509527
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0978
+  IN41_R:
+    id: 720575940619848301
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0978
+  IN42_L:
+    id: 720575940646530414
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0605
+  IN42_R:
+    id: 720575940623697898
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0605
+  IN43_L:
+    id: 720575940604745346
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB1145
+  IN43_R:
+    id: 720575940639625635
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB1145
+  IN44_L:
+    id: 720575940625642012
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB1427
+  IN44_R:
+    id: 720575940615623586
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB1427
+  IN45_L:
+    id: 720575940627810581
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0545
+  IN45_R:
+    id: 720575940629714476
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0545
+  IN46_L:
+    id: 720575940623759248
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB2139
+  IN46_R:
+    id: 720575940624576806
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB2139
+  IN47_L:
+    id: 720575940619867595
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB1265
+  IN47_R:
+    id: 720575940617878306
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB1265
+  IN48_L:
+    id: 720575940638478680
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0958
+  IN48_R:
+    id: 720575940628840252
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0958
+  IN49_L:
+    id: 720575940634341587
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0986
+  IN49_R:
+    id: 720575940615289650
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0986
+  IN50_L:
+    id: 720575940619939188
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB3804
+  IN50_R:
+    id: 720575940624574717
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB3804
+  IN51_L:
+    id: 720575940628954954
+    color: '#f9da8e'
+    nt: excitatory
+    cell_type: CB0305
+  IN51_R:
+    id: 720575940614960022
+    color: '#f9da8e'
+    nt: excitatory
+    cell_type: CB0305
+  IN52_L:
+    id: 720575940624986407
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0496
+  IN52_R:
+    id: 720575940609957315
+    color: '#f9da8e'
+    nt: inhibitory
+    cell_type: CB0496
+  IN53_L:
+    id: 720575940624539993
+    color: '#DA9101'
+    nt: excitatory
+    cell_type: CB0957
+  IN53_R:
+    id: 720575940625119671
+    color: '#DA9101'
+    nt: excitatory
+    cell_type: CB0957
+BM-Ant:
+  BM-Ant0_R:
+    id: 720575940628194647
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant0_L:
+    id: 720575940636645624
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant1_R:
+    id: 720575940627488455
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant1_L:
+    id: 720575940612344306
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant2_R:
+    id: 720575940611385829
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant2_L:
+    id: 720575940614454870
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant3_R:
+    id: 720575940627172751
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant3_L:
+    id: 720575940628896759
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant4_R:
+    id: 720575940613669357
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant4_L:
+    id: 720575940614485307
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant5_R:
+    id: 720575940640240885
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant5_L:
+    id: 720575940623165709
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant6_R:
+    id: 720575940612453526
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant6_L:
+    id: 720575940639169597
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant7_R:
+    id: 720575940638284607
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant7_L:
+    id: 720575940620593840
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant8_R:
+    id: 720575940625179918
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant8_L:
+    id: 720575940614041117
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant9_R:
+    id: 720575940613078993
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant9_L:
+    id: 720575940643141024
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant10_R:
+    id: 720575940642413604
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant10_L:
+    id: 720575940630299084
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant11_R:
+    id: 720575940611132890
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant11_L:
+    id: 720575940620879552
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant12_R:
+    id: 720575940629440067
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant12_L:
+    id: 720575940626646787
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant13_R:
+    id: 720575940629941356
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant13_L:
+    id: 720575940617738325
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant14_R:
+    id: 720575940608763460
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant14_L:
+    id: 720575940621171700
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant15_R:
+    id: 720575940629824378
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant15_L:
+    id: 720575940635086234
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant16_R:
+    id: 720575940603728561
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant16_L:
+    id: 720575940624338521
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant17_R:
+    id: 720575940620556680
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant17_L:
+    id: 720575940623836222
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant18_R:
+    id: 720575940644439860
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant18_L:
+    id: 720575940618078299
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant19_R:
+    id: 720575940629917471
+    color: '#8db2c9'
+    nt: excitatory
+  BM-Ant19_L:
+    id: 720575940618078635
+    color: '#8db2c9'
+    nt: excitatory
+JO-C:
+  JO-C0_R:
+    id: 720575940614908822
+    color: '#6798b7'
+    nt: excitatory
+  JO-C0_L:
+    id: 720575940623083288
+    color: '#6798b7'
+    nt: excitatory
+  JO-C1_R:
+    id: 720575940646735668
+    color: '#6798b7'
+    nt: excitatory
+  JO-C1_L:
+    id: 720575940607386307
+    color: '#6798b7'
+    nt: excitatory
+  JO-C2_R:
+    id: 720575940634609115
+    color: '#6798b7'
+    nt: excitatory
+  JO-C2_L:
+    id: 720575940604753437
+    color: '#6798b7'
+    nt: excitatory
+  JO-C3_R:
+    id: 720575940616080212
+    color: '#6798b7'
+    nt: excitatory
+  JO-C3_L:
+    id: 720575940614035485
+    color: '#6798b7'
+    nt: excitatory
+  JO-C4_R:
+    id: 720575940614803266
+    color: '#6798b7'
+    nt: excitatory
+  JO-C4_L:
+    id: 720575940613971485
+    color: '#6798b7'
+    nt: excitatory
+  JO-C5_R:
+    id: 720575940631399008
+    color: '#6798b7'
+    nt: excitatory
+  JO-C5_L:
+    id: 720575940612217818
+    color: '#6798b7'
+    nt: excitatory
+  JO-C6_R:
+    id: 720575940630969051
+    color: '#6798b7'
+    nt: excitatory
+  JO-C6_L:
+    id: 720575940630319671
+    color: '#6798b7'
+    nt: excitatory
+  JO-C7_R:
+    id: 720575940607765259
+    color: '#6798b7'
+    nt: excitatory
+  JO-C7_L:
+    id: 720575940630070343
+    color: '#6798b7'
+    nt: excitatory
+  JO-C8_R:
+    id: 720575940626274314
+    color: '#6798b7'
+    nt: excitatory
+  JO-C8_L:
+    id: 720575940610079857
+    color: '#6798b7'
+    nt: excitatory
+  JO-C9_L:
+    id: 720575940625904016
+    color: '#6798b7'
+    nt: excitatory
+  JO-C9_R:
+    id: 264390523160152164
+    color: '#6798b7'
+    nt: excitatory
+  JO-C10_L:
+    id: 720575940629105658
+    color: '#6798b7'
+    nt: excitatory
+  JO-C10_R:
+    id: 259442182368400571
+    color: '#6798b7'
+    nt: excitatory
+  JO-C11_L:
+    id: 720575940602720940
+    color: '#6798b7'
+    nt: excitatory
+  JO-C11_R:
+    id: 247685532801121051
+    color: '#6798b7'
+    nt: excitatory
+  JO-C12_L:
+    id: 720575940635285599
+    color: '#6798b7'
+    nt: excitatory
+  JO-C12_R:
+    id: 177896230702402867
+    color: '#6798b7'
+    nt: excitatory
+  JO-C13_L:
+    id: 720575940633443353
+    color: '#6798b7'
+    nt: excitatory
+  JO-C13_R:
+    id: 459030148768829381
+    color: '#6798b7'
+    nt: excitatory
+JO-E:
+  JO-E0_R:
+    id: 720575940620055617
+    color: '#417ea5'
+    nt: excitatory
+  JO-E0_L:
+    id: 720575940613641915
+    color: '#417ea5'
+    nt: excitatory
+  JO-E1_R:
+    id: 720575940631100690
+    color: '#417ea5'
+    nt: excitatory
+  JO-E1_L:
+    id: 720575940621776410
+    color: '#417ea5'
+    nt: excitatory
+  JO-E2_R:
+    id: 720575940604879025
+    color: '#417ea5'
+    nt: excitatory
+  JO-E2_L:
+    id: 720575940626565455
+    color: '#417ea5'
+    nt: excitatory
+  JO-E3_R:
+    id: 720575940609221845
+    color: '#417ea5'
+    nt: excitatory
+  JO-E3_L:
+    id: 720575940620293652
+    color: '#417ea5'
+    nt: excitatory
+  JO-E4_R:
+    id: 720575940616631001
+    color: '#417ea5'
+    nt: excitatory
+  JO-E4_L:
+    id: 720575940624915230
+    color: '#417ea5'
+    nt: excitatory
+  JO-E5_R:
+    id: 720575940618896624
+    color: '#417ea5'
+    nt: excitatory
+  JO-E5_L:
+    id: 720575940646929204
+    color: '#417ea5'
+    nt: excitatory
+  JO-E6_R:
+    id: 720575940615926982
+    color: '#417ea5'
+    nt: excitatory
+  JO-E6_L:
+    id: 720575940610759634
+    color: '#417ea5'
+    nt: excitatory
+  JO-E7_R:
+    id: 720575940638332494
+    color: '#417ea5'
+    nt: excitatory
+  JO-E7_L:
+    id: 720575940634634606
+    color: '#417ea5'
+    nt: excitatory
+  JO-E8_R:
+    id: 720575940615090582
+    color: '#417ea5'
+    nt: excitatory
+  JO-E8_L:
+    id: 720575940616661109
+    color: '#417ea5'
+    nt: excitatory
+  JO-E9_R:
+    id: 720575940615239746
+    color: '#417ea5'
+    nt: excitatory
+  JO-E9_L:
+    id: 720575940629188251
+    color: '#417ea5'
+    nt: excitatory
+  JO-E10_R:
+    id: 720575940623300137
+    color: '#417ea5'
+    nt: excitatory
+  JO-E10_L:
+    id: 720575940633058989
+    color: '#417ea5'
+    nt: excitatory
+  JO-E11_R:
+    id: 720575940622683174
+    color: '#417ea5'
+    nt: excitatory
+  JO-E11_L:
+    id: 720575940622344170
+    color: '#417ea5'
+    nt: excitatory
+  JO-E12_R:
+    id: 720575940618861873
+    color: '#417ea5'
+    nt: excitatory
+  JO-E12_L:
+    id: 720575940619932654
+    color: '#417ea5'
+    nt: excitatory
+  JO-E13_R:
+    id: 720575940619218078
+    color: '#417ea5'
+    nt: excitatory
+  JO-E13_L:
+    id: 720575940639339392
+    color: '#417ea5'
+    nt: excitatory
+  JO-E14_R:
+    id: 720575940637445183
+    color: '#417ea5'
+    nt: excitatory
+  JO-E14_L:
+    id: 720575940627314088
+    color: '#417ea5'
+    nt: excitatory
+  JO-E15_R:
+    id: 720575940636498907
+    color: '#417ea5'
+    nt: excitatory
+  JO-E15_L:
+    id: 720575940627049731
+    color: '#417ea5'
+    nt: excitatory
+  JO-E16_R:
+    id: 720575940636332663
+    color: '#417ea5'
+    nt: excitatory
+  JO-E16_L:
+    id: 720575940620543110
+    color: '#417ea5'
+    nt: excitatory
+  JO-E17_R:
+    id: 720575940620791028
+    color: '#417ea5'
+    nt: excitatory
+  JO-E17_L:
+    id: 720575940610261346
+    color: '#417ea5'
+    nt: excitatory
+  JO-E18_R:
+    id: 720575940634186091
+    color: '#417ea5'
+    nt: excitatory
+  JO-E18_L:
+    id: 720575940625962568
+    color: '#417ea5'
+    nt: excitatory
+  JO-E19_R:
+    id: 720575940616793300
+    color: '#417ea5'
+    nt: excitatory
+  JO-E19_L:
+    id: 720575940621172545
+    color: '#417ea5'
+    nt: excitatory
+  JO-E20_R:
+    id: 720575940617245908
+    color: '#417ea5'
+    nt: excitatory
+  JO-E20_L:
+    id: 720575940611088563
+    color: '#417ea5'
+    nt: excitatory
+  JO-E21_R:
+    id: 720575940636395866
+    color: '#417ea5'
+    nt: excitatory
+  JO-E21_L:
+    id: 720575940628160617
+    color: '#417ea5'
+    nt: excitatory
+  JO-E22_R:
+    id: 720575940639166080
+    color: '#417ea5'
+    nt: excitatory
+  JO-E22_L:
+    id: 720575940616589878
+    color: '#417ea5'
+    nt: excitatory
+  JO-E23_R:
+    id: 720575940623412360
+    color: '#417ea5'
+    nt: excitatory
+  JO-E23_L:
+    id: 720575940634891700
+    color: '#417ea5'
+    nt: excitatory
+  JO-E24_R:
+    id: 720575940621981464
+    color: '#417ea5'
+    nt: excitatory
+  JO-E24_L:
+    id: 720575940627282279
+    color: '#417ea5'
+    nt: excitatory
+  JO-E25_R:
+    id: 720575940628495447
+    color: '#417ea5'
+    nt: excitatory
+  JO-E25_L:
+    id: 720575940630202624
+    color: '#417ea5'
+    nt: excitatory
+  JO-E26_R:
+    id: 720575940609065173
+    color: '#417ea5'
+    nt: excitatory
+  JO-E26_L:
+    id: 720575940639298237
+    color: '#417ea5'
+    nt: excitatory
+  JO-E27_R:
+    id: 720575940626881625
+    color: '#417ea5'
+    nt: excitatory
+  JO-E27_L:
+    id: 720575940615024543
+    color: '#417ea5'
+    nt: excitatory
+  JO-E28_R:
+    id: 720575940623928812
+    color: '#417ea5'
+    nt: excitatory
+  JO-E28_L:
+    id: 720575940621815690
+    color: '#417ea5'
+    nt: excitatory
+  JO-E29_R:
+    id: 720575940612279731
+    color: '#417ea5'
+    nt: excitatory
+  JO-E29_L:
+    id: 720575940606154370
+    color: '#417ea5'
+    nt: excitatory
+  JO-E30_R:
+    id: 720575940642309261
+    color: '#417ea5'
+    nt: excitatory
+  JO-E30_L:
+    id: 720575940615272415
+    color: '#417ea5'
+    nt: excitatory
+  JO-E31_R:
+    id: 720575940631370336
+    color: '#417ea5'
+    nt: excitatory
+  JO-E31_L:
+    id: 720575940614188149
+    color: '#417ea5'
+    nt: excitatory
+  JO-E32_R:
+    id: 720575940628828688
+    color: '#417ea5'
+    nt: excitatory
+  JO-E32_L:
+    id: 720575940619479979
+    color: '#417ea5'
+    nt: excitatory
+  JO-E33_R:
+    id: 720575940623334891
+    color: '#417ea5'
+    nt: excitatory
+  JO-E33_L:
+    id: 720575940629650997
+    color: '#417ea5'
+    nt: excitatory
+  JO-E34_R:
+    id: 720575940631367776
+    color: '#417ea5'
+    nt: excitatory
+  JO-E34_L:
+    id: 720575940609522461
+    color: '#417ea5'
+    nt: excitatory
+  JO-E35_R:
+    id: 720575940621639133
+    color: '#417ea5'
+    nt: excitatory
+  JO-E35_L:
+    id: 720575940609486690
+    color: '#417ea5'
+    nt: excitatory
+  JO-E36_R:
+    id: 720575940631368544
+    color: '#417ea5'
+    nt: excitatory
+  JO-E36_L:
+    id: 720575940602132509
+    color: '#417ea5'
+    nt: excitatory
+  JO-E37_R:
+    id: 720575940626524805
+    color: '#417ea5'
+    nt: excitatory
+  JO-E37_L:
+    id: 720575940622937528
+    color: '#417ea5'
+    nt: excitatory
+  JO-E38_R:
+    id: 720575940619991232
+    color: '#417ea5'
+    nt: excitatory
+  JO-E38_L:
+    id: 720575940627104649
+    color: '#417ea5'
+    nt: excitatory
+  JO-E39_R:
+    id: 720575940616642363
+    color: '#417ea5'
+    nt: excitatory
+  JO-E39_L:
+    id: 720575940621033477
+    color: '#417ea5'
+    nt: excitatory
+  JO-E40_R:
+    id: 720575940620537734
+    color: '#417ea5'
+    nt: excitatory
+  JO-E40_L:
+    id: 720575940620257345
+    color: '#417ea5'
+    nt: excitatory
+  JO-E41_R:
+    id: 720575940638064100
+    color: '#417ea5'
+    nt: excitatory
+  JO-E41_L:
+    id: 720575940626042149
+    color: '#417ea5'
+    nt: excitatory
+  JO-E42_R:
+    id: 720575940630964187
+    color: '#417ea5'
+    nt: excitatory
+  JO-E42_L:
+    id: 720575940613221928
+    color: '#417ea5'
+    nt: excitatory
+  JO-E43_R:
+    id: 720575940613428945
+    color: '#417ea5'
+    nt: excitatory
+  JO-E43_L:
+    id: 720575940616040587
+    color: '#417ea5'
+    nt: excitatory
+  JO-E44_R:
+    id: 720575940631694069
+    color: '#417ea5'
+    nt: excitatory
+  JO-E44_L:
+    id: 720575940628444667
+    color: '#417ea5'
+    nt: excitatory
+  JO-E45_R:
+    id: 720575940623406984
+    color: '#417ea5'
+    nt: excitatory
+  JO-E45_L:
+    id: 720575940616655989
+    color: '#417ea5'
+    nt: excitatory
+  JO-E46_R:
+    id: 720575940612286899
+    color: '#417ea5'
+    nt: excitatory
+  JO-E46_L:
+    id: 720575940621010352
+    color: '#417ea5'
+    nt: excitatory
+  JO-E47_R:
+    id: 720575940631191367
+    color: '#417ea5'
+    nt: excitatory
+  JO-E47_L:
+    id: 720575940626540821
+    color: '#417ea5'
+    nt: excitatory
+  JO-E48_R:
+    id: 720575940624664468
+    color: '#417ea5'
+    nt: excitatory
+  JO-E48_L:
+    id: 720575940618467195
+    color: '#417ea5'
+    nt: excitatory
+  JO-E49_R:
+    id: 720575940616479121
+    color: '#417ea5'
+    nt: excitatory
+  JO-E49_L:
+    id: 720575940611061526
+    color: '#417ea5'
+    nt: excitatory
+  JO-E50_R:
+    id: 720575940651360246
+    color: '#417ea5'
+    nt: excitatory
+  JO-E50_L:
+    id: 720575940623108134
+    color: '#417ea5'
+    nt: excitatory
+  JO-E51_R:
+    id: 720575940634714075
+    color: '#417ea5'
+    nt: excitatory
+  JO-E51_L:
+    id: 720575940616951124
+    color: '#417ea5'
+    nt: excitatory
+  JO-E52_R:
+    id: 720575940639233333
+    color: '#417ea5'
+    nt: excitatory
+  JO-E52_L:
+    id: 720575940605919334
+    color: '#417ea5'
+    nt: excitatory
+  JO-E53_R:
+    id: 720575940626753809
+    color: '#417ea5'
+    nt: excitatory
+  JO-E53_L:
+    id: 720575940628101126
+    color: '#417ea5'
+    nt: excitatory
+  JO-E54_R:
+    id: 720575940608658205
+    color: '#417ea5'
+    nt: excitatory
+  JO-E54_L:
+    id: 720575940618130334
+    color: '#417ea5'
+    nt: excitatory
+  JO-E55_R:
+    id: 720575940618646744
+    color: '#417ea5'
+    nt: excitatory
+  JO-E55_L:
+    id: 720575940627941431
+    color: '#417ea5'
+    nt: excitatory
+  JO-E56_R:
+    id: 720575940628349446
+    color: '#417ea5'
+    nt: excitatory
+  JO-E56_L:
+    id: 720575940615573597
+    color: '#417ea5'
+    nt: excitatory
+  JO-E57_R:
+    id: 720575940639161909
+    color: '#417ea5'
+    nt: excitatory
+  JO-E57_L:
+    id: 720575940625559358
+    color: '#417ea5'
+    nt: excitatory
+  JO-E58_R:
+    id: 720575940631997580
+    color: '#417ea5'
+    nt: excitatory
+  JO-E58_L:
+    id: 720575940650244342
+    color: '#417ea5'
+    nt: excitatory
+  JO-E59_R:
+    id: 720575940631314316
+    color: '#417ea5'
+    nt: excitatory
+  JO-E59_L:
+    id: 720575940624686268
+    color: '#417ea5'
+    nt: excitatory
+  JO-E60_R:
+    id: 720575940611197107
+    color: '#417ea5'
+    nt: excitatory
+  JO-E60_L:
+    id: 720575940624799290
+    color: '#417ea5'
+    nt: excitatory
+  JO-E61_R:
+    id: 720575940618293406
+    color: '#417ea5'
+    nt: excitatory
+  JO-E61_L:
+    id: 720575940631866508
+    color: '#417ea5'
+    nt: excitatory
+  JO-E62_R:
+    id: 720575940613142191
+    color: '#417ea5'
+    nt: excitatory
+  JO-E62_L:
+    id: 720575940615848788
+    color: '#417ea5'
+    nt: excitatory
+  JO-E63_R:
+    id: 720575940622202858
+    color: '#417ea5'
+    nt: excitatory
+  JO-E63_L:
+    id: 720575940610018266
+    color: '#417ea5'
+    nt: excitatory
+  JO-E64_R:
+    id: 720575940609832772
+    color: '#417ea5'
+    nt: excitatory
+  JO-E64_L:
+    id: 720575940627977457
+    color: '#417ea5'
+    nt: excitatory
+  JO-E65_R:
+    id: 720575940620114196
+    color: '#417ea5'
+    nt: excitatory
+  JO-E65_L:
+    id: 720575940637012196
+    color: '#417ea5'
+    nt: excitatory
+  JO-E66_R:
+    id: 720575940612136666
+    color: '#417ea5'
+    nt: excitatory
+  JO-E66_L:
+    id: 720575940615590843
+    color: '#417ea5'
+    nt: excitatory
+  JO-E67_R:
+    id: 720575940631044059
+    color: '#417ea5'
+    nt: excitatory
+  JO-E67_L:
+    id: 720575940630992557
+    color: '#417ea5'
+    nt: excitatory
+  JO-E68_R:
+    id: 720575940627925865
+    color: '#417ea5'
+    nt: excitatory
+  JO-E68_L:
+    id: 720575940629743063
+    color: '#417ea5'
+    nt: excitatory
+  JO-E69_R:
+    id: 720575940635672677
+    color: '#417ea5'
+    nt: excitatory
+  JO-E69_L:
+    id: 720575940621218985
+    color: '#417ea5'
+    nt: excitatory
+  JO-E70_R:
+    id: 720575940625489764
+    color: '#417ea5'
+    nt: excitatory
+  JO-E70_L:
+    id: 720575940622199977
+    color: '#417ea5'
+    nt: excitatory
+  JO-E71_R:
+    id: 720575940624157769
+    color: '#417ea5'
+    nt: excitatory
+  JO-E71_L:
+    id: 720575940608884931
+    color: '#417ea5'
+    nt: excitatory
+  JO-E72_R:
+    id: 720575940640651325
+    color: '#417ea5'
+    nt: excitatory
+  JO-E72_L:
+    id: 720575940618941037
+    color: '#417ea5'
+    nt: excitatory
+  JO-E73_R:
+    id: 720575940639041443
+    color: '#417ea5'
+    nt: excitatory
+  JO-E73_L:
+    id: 720575940626795909
+    color: '#417ea5'
+    nt: excitatory
+  JO-E74_R:
+    id: 720575940638243645
+    color: '#417ea5'
+    nt: excitatory
+  JO-E74_L:
+    id: 720575940615469785
+    color: '#417ea5'
+    nt: excitatory
+  JO-E75_R:
+    id: 720575940631367264
+    color: '#417ea5'
+    nt: excitatory
+  JO-E75_L:
+    id: 720575940633153375
+    color: '#417ea5'
+    nt: excitatory
+  JO-E76_R:
+    id: 720575940615276661
+    color: '#417ea5'
+    nt: excitatory
+  JO-E76_L:
+    id: 720575940628903247
+    color: '#417ea5'
+    nt: excitatory
+  JO-E77_R:
+    id: 720575940629706496
+    color: '#417ea5'
+    nt: excitatory
+  JO-E77_L:
+    id: 720575940612773374
+    color: '#417ea5'
+    nt: excitatory
+  JO-E78_R:
+    id: 720575940635290231
+    color: '#417ea5'
+    nt: excitatory
+  JO-E78_L:
+    id: 720575940641921421
+    color: '#417ea5'
+    nt: excitatory
+  JO-E79_R:
+    id: 720575940628210272
+    color: '#417ea5'
+    nt: excitatory
+  JO-E79_L:
+    id: 720575940621625597
+    color: '#417ea5'
+    nt: excitatory
+  JO-E80_R:
+    id: 720575940610702968
+    color: '#417ea5'
+    nt: excitatory
+  JO-E80_L:
+    id: 720575940627585688
+    color: '#417ea5'
+    nt: excitatory
+  JO-E81_R:
+    id: 720575940618927024
+    color: '#417ea5'
+    nt: excitatory
+  JO-E81_L:
+    id: 720575940621442224
+    color: '#417ea5'
+    nt: excitatory
+  JO-E82_R:
+    id: 720575940626748232
+    color: '#417ea5'
+    nt: excitatory
+  JO-E82_L:
+    id: 720575940630544967
+    color: '#417ea5'
+    nt: excitatory
+  JO-E83_R:
+    id: 720575940612341490
+    color: '#417ea5'
+    nt: excitatory
+  JO-E83_L:
+    id: 720575940630834683
+    color: '#417ea5'
+    nt: excitatory
+  JO-E84_R:
+    id: 720575940622281352
+    color: '#417ea5'
+    nt: excitatory
+  JO-E84_L:
+    id: 720575940620249734
+    color: '#417ea5'
+    nt: excitatory
+  JO-E85_R:
+    id: 720575940608369026
+    color: '#417ea5'
+    nt: excitatory
+  JO-E85_L:
+    id: 720575940619729835
+    color: '#417ea5'
+    nt: excitatory
+  JO-E86_R:
+    id: 720575940630094325
+    color: '#417ea5'
+    nt: excitatory
+  JO-E86_L:
+    id: 720575940638681845
+    color: '#417ea5'
+    nt: excitatory
+  JO-E87_R:
+    id: 720575940630174268
+    color: '#417ea5'
+    nt: excitatory
+  JO-E87_L:
+    id: 720575940617811013
+    color: '#417ea5'
+    nt: excitatory
+  JO-E88_R:
+    id: 720575940614109615
+    color: '#417ea5'
+    nt: excitatory
+  JO-E88_L:
+    id: 720575940624981436
+    color: '#417ea5'
+    nt: excitatory
+  JO-E89_R:
+    id: 720575940637022298
+    color: '#417ea5'
+    nt: excitatory
+  JO-E89_L:
+    id: 720575940618684481
+    color: '#417ea5'
+    nt: excitatory
+  JO-E90_R:
+    id: 720575940611000499
+    color: '#417ea5'
+    nt: excitatory
+  JO-E90_L:
+    id: 720575940630080071
+    color: '#417ea5'
+    nt: excitatory
+  JO-E91_R:
+    id: 720575940631326751
+    color: '#417ea5'
+    nt: excitatory
+  JO-E91_L:
+    id: 720575940615809349
+    color: '#417ea5'
+    nt: excitatory
+  JO-E92_R:
+    id: 720575940635345519
+    color: '#417ea5'
+    nt: excitatory
+  JO-E92_L:
+    id: 720575940630564179
+    color: '#417ea5'
+    nt: excitatory
+  JO-E93_R:
+    id: 720575940604976318
+    color: '#417ea5'
+    nt: excitatory
+  JO-E93_L:
+    id: 720575940607853833
+    color: '#417ea5'
+    nt: excitatory
+  JO-E94_R:
+    id: 720575940630650130
+    color: '#417ea5'
+    nt: excitatory
+  JO-E94_L:
+    id: 720575940620382889
+    color: '#417ea5'
+    nt: excitatory
+  JO-E95_R:
+    id: 720575940634640091
+    color: '#417ea5'
+    nt: excitatory
+  JO-E95_L:
+    id: 720575940637054835
+    color: '#417ea5'
+    nt: excitatory
+  JO-E96_R:
+    id: 720575940633810111
+    color: '#417ea5'
+    nt: excitatory
+  JO-E96_L:
+    id: 720575940615986459
+    color: '#417ea5'
+    nt: excitatory
+  JO-E97_R:
+    id: 720575940611029858
+    color: '#417ea5'
+    nt: excitatory
+  JO-E97_L:
+    id: 720575940622638276
+    color: '#417ea5'
+    nt: excitatory
+  JO-E98_R:
+    id: 720575940613153320
+    color: '#417ea5'
+    nt: excitatory
+  JO-E98_L:
+    id: 720575940621397417
+    color: '#417ea5'
+    nt: excitatory
+  JO-E99_R:
+    id: 720575940626543768
+    color: '#417ea5'
+    nt: excitatory
+  JO-E99_L:
+    id: 720575940626309438
+    color: '#417ea5'
+    nt: excitatory
+  JO-E100_R:
+    id: 720575940606912386
+    color: '#417ea5'
+    nt: excitatory
+  JO-E100_L:
+    id: 720575940620444654
+    color: '#417ea5'
+    nt: excitatory
+  JO-E101_R:
+    id: 720575940613803293
+    color: '#417ea5'
+    nt: excitatory
+  JO-E101_L:
+    id: 720575940623437547
+    color: '#417ea5'
+    nt: excitatory
+  JO-E102_R:
+    id: 720575940632475859
+    color: '#417ea5'
+    nt: excitatory
+  JO-E102_L:
+    id: 720575940629022149
+    color: '#417ea5'
+    nt: excitatory
+  JO-E103_R:
+    id: 720575940636290935
+    color: '#417ea5'
+    nt: excitatory
+  JO-E103_L:
+    id: 720575940629985900
+    color: '#417ea5'
+    nt: excitatory
+  JO-E104_R:
+    id: 720575940619694040
+    color: '#417ea5'
+    nt: excitatory
+  JO-E104_L:
+    id: 720575940619869120
+    color: '#417ea5'
+    nt: excitatory
+  JO-E105_R:
+    id: 720575940622099405
+    color: '#417ea5'
+    nt: excitatory
+  JO-E105_L:
+    id: 720575940612960552
+    color: '#417ea5'
+    nt: excitatory
+  JO-E106_R:
+    id: 720575940626169481
+    color: '#417ea5'
+    nt: excitatory
+  JO-E106_L:
+    id: 720575940637410869
+    color: '#417ea5'
+    nt: excitatory
+  JO-E107_R:
+    id: 720575940638431029
+    color: '#417ea5'
+    nt: excitatory
+  JO-E107_L:
+    id: 720575940645466500
+    color: '#417ea5'
+    nt: excitatory
+  JO-E108_R:
+    id: 720575940622432726
+    color: '#417ea5'
+    nt: excitatory
+  JO-E108_L:
+    id: 720575940626148354
+    color: '#417ea5'
+    nt: excitatory
+  JO-E109_R:
+    id: 720575940640952027
+    color: '#417ea5'
+    nt: excitatory
+  JO-E109_L:
+    id: 720575940634820703
+    color: '#417ea5'
+    nt: excitatory
+  JO-E110_R:
+    id: 720575940625293084
+    color: '#417ea5'
+    nt: excitatory
+  JO-E110_L:
+    id: 720575940609541917
+    color: '#417ea5'
+    nt: excitatory
+  JO-E111_R:
+    id: 720575940633738209
+    color: '#417ea5'
+    nt: excitatory
+  JO-E111_L:
+    id: 720575940620410177
+    color: '#417ea5'
+    nt: excitatory
+  JO-E112_R:
+    id: 720575940619235486
+    color: '#417ea5'
+    nt: excitatory
+  JO-E112_L:
+    id: 720575940625797617
+    color: '#417ea5'
+    nt: excitatory
+  JO-E113_R:
+    id: 720575940623291945
+    color: '#417ea5'
+    nt: excitatory
+  JO-E113_L:
+    id: 720575940619083349
+    color: '#417ea5'
+    nt: excitatory
+  JO-E114_R:
+    id: 720575940626270236
+    color: '#417ea5'
+    nt: excitatory
+  JO-E114_L:
+    id: 720575940627109991
+    color: '#417ea5'
+    nt: excitatory
+  JO-E115_R:
+    id: 720575940631412576
+    color: '#417ea5'
+    nt: excitatory
+  JO-E115_L:
+    id: 720575940628258715
+    color: '#417ea5'
+    nt: excitatory
+  JO-E116_R:
+    id: 720575940616162235
+    color: '#417ea5'
+    nt: excitatory
+  JO-E116_L:
+    id: 720575940645106376
+    color: '#417ea5'
+    nt: excitatory
+  JO-E117_R:
+    id: 720575940634599643
+    color: '#417ea5'
+    nt: excitatory
+  JO-E117_L:
+    id: 720575940637084762
+    color: '#417ea5'
+    nt: excitatory
+  JO-E118_R:
+    id: 720575940629534458
+    color: '#417ea5'
+    nt: excitatory
+  JO-E118_L:
+    id: 720575940617434086
+    color: '#417ea5'
+    nt: excitatory
+  JO-E119_R:
+    id: 720575940613521389
+    color: '#417ea5'
+    nt: excitatory
+  JO-E119_L:
+    id: 720575940622234211
+    color: '#417ea5'
+    nt: excitatory
+  JO-E120_R:
+    id: 720575940631957344
+    color: '#417ea5'
+    nt: excitatory
+  JO-E120_L:
+    id: 720575940638664437
+    color: '#417ea5'
+    nt: excitatory
+  JO-E121_R:
+    id: 720575940636410869
+    color: '#417ea5'
+    nt: excitatory
+  JO-E121_L:
+    id: 720575940630122015
+    color: '#417ea5'
+    nt: excitatory
+  JO-E122_R:
+    id: 720575940640748195
+    color: '#417ea5'
+    nt: excitatory
+  JO-E122_L:
+    id: 720575940622419165
+    color: '#417ea5'
+    nt: excitatory
+  JO-E123_R:
+    id: 720575940605997233
+    color: '#417ea5'
+    nt: excitatory
+  JO-E123_L:
+    id: 720575940628978450
+    color: '#417ea5'
+    nt: excitatory
+  JO-E124_R:
+    id: 720575940627542769
+    color: '#417ea5'
+    nt: excitatory
+  JO-E124_L:
+    id: 720575940644036644
+    color: '#417ea5'
+    nt: excitatory
+  JO-E125_R:
+    id: 720575940628908670
+    color: '#417ea5'
+    nt: excitatory
+  JO-E125_L:
+    id: 720575940628192055
+    color: '#417ea5'
+    nt: excitatory
+  JO-E126_R:
+    id: 720575940620661675
+    color: '#417ea5'
+    nt: excitatory
+  JO-E126_L:
+    id: 720575940659131009
+    color: '#417ea5'
+    nt: excitatory
+  JO-E127_R:
+    id: 720575940616190651
+    color: '#417ea5'
+    nt: excitatory
+  JO-E127_L:
+    id: 720575940633553820
+    color: '#417ea5'
+    nt: excitatory
+  JO-E128_R:
+    id: 720575940621431247
+    color: '#417ea5'
+    nt: excitatory
+  JO-E128_L:
+    id: 720575940602506208
+    color: '#417ea5'
+    nt: excitatory
+  JO-E129_R:
+    id: 720575940623001736
+    color: '#417ea5'
+    nt: excitatory
+  JO-E129_L:
+    id: 720575940622283912
+    color: '#417ea5'
+    nt: excitatory
+  JO-E130_R:
+    id: 720575940624137656
+    color: '#417ea5'
+    nt: excitatory
+  JO-E130_L:
+    id: 720575940611684787
+    color: '#417ea5'
+    nt: excitatory
+  JO-E131_R:
+    id: 720575940635959919
+    color: '#417ea5'
+    nt: excitatory
+  JO-E131_L:
+    id: 720575940624546062
+    color: '#417ea5'
+    nt: excitatory
+  JO-E132_R:
+    id: 720575940626606211
+    color: '#417ea5'
+    nt: excitatory
+  JO-E132_L:
+    id: 720575940614060829
+    color: '#417ea5'
+    nt: excitatory
+  JO-E133_R:
+    id: 720575940628306784
+    color: '#417ea5'
+    nt: excitatory
+  JO-E133_L:
+    id: 720575940622449388
+    color: '#417ea5'
+    nt: excitatory
+  JO-E134_R:
+    id: 720575940634605531
+    color: '#417ea5'
+    nt: excitatory
+  JO-E134_L:
+    id: 720575940626666066
+    color: '#417ea5'
+    nt: excitatory
+  JO-E135_R:
+    id: 720575940628162300
+    color: '#417ea5'
+    nt: excitatory
+  JO-E135_L:
+    id: 720575940604122982
+    color: '#417ea5'
+    nt: excitatory
+  JO-E136_R:
+    id: 720575940605929161
+    color: '#417ea5'
+    nt: excitatory
+  JO-E136_L:
+    id: 720575940617212134
+    color: '#417ea5'
+    nt: excitatory
+  JO-E137_R:
+    id: 720575940631367520
+    color: '#417ea5'
+    nt: excitatory
+  JO-E137_L:
+    id: 720575940630059847
+    color: '#417ea5'
+    nt: excitatory
+  JO-E138_R:
+    id: 720575940613309359
+    color: '#417ea5'
+    nt: excitatory
+  JO-E138_L:
+    id: 720575940620919578
+    color: '#417ea5'
+    nt: excitatory
+  JO-E139_R:
+    id: 720575940619912021
+    color: '#417ea5'
+    nt: excitatory
+  JO-E139_L:
+    id: 720575940625605905
+    color: '#417ea5'
+    nt: excitatory
+  JO-E140_R:
+    id: 720575940636768613
+    color: '#417ea5'
+    nt: excitatory
+  JO-E140_L:
+    id: 720575940629055721
+    color: '#417ea5'
+    nt: excitatory
+  JO-E141_R:
+    id: 720575940619518667
+    color: '#417ea5'
+    nt: excitatory
+  JO-E141_L:
+    id: 720575940659426177
+    color: '#417ea5'
+    nt: excitatory
+  JO-E142_R:
+    id: 720575940645483555
+    color: '#417ea5'
+    nt: excitatory
+  JO-E142_L:
+    id: 720575940615972027
+    color: '#417ea5'
+    nt: excitatory
+  JO-E143_R:
+    id: 720575940617504027
+    color: '#417ea5'
+    nt: excitatory
+  JO-E143_L:
+    id: 720575940632175268
+    color: '#417ea5'
+    nt: excitatory
+  JO-E144_R:
+    id: 720575940630458732
+    color: '#417ea5'
+    nt: excitatory
+  JO-E144_L:
+    id: 720575940623312828
+    color: '#417ea5'
+    nt: excitatory
+  JO-E145_R:
+    id: 720575940607651083
+    color: '#417ea5'
+    nt: excitatory
+  JO-E145_L:
+    id: 720575940621218729
+    color: '#417ea5'
+    nt: excitatory
+  JO-E146_R:
+    id: 720575940616345049
+    color: '#417ea5'
+    nt: excitatory
+  JO-E146_L:
+    id: 720575940618599872
+    color: '#417ea5'
+    nt: excitatory
+  JO-E147_R:
+    id: 720575940618051485
+    color: '#417ea5'
+    nt: excitatory
+  JO-E147_L:
+    id: 720575940620940276
+    color: '#417ea5'
+    nt: excitatory
+  JO-E148_R:
+    id: 720575940629531095
+    color: '#417ea5'
+    nt: excitatory
+  JO-E148_L:
+    id: 720575940622271684
+    color: '#417ea5'
+    nt: excitatory
+  JO-E149_R:
+    id: 720575940635136880
+    color: '#417ea5'
+    nt: excitatory
+  JO-E149_L:
+    id: 720575940611273395
+    color: '#417ea5'
+    nt: excitatory
+  JO-E150_R:
+    id: 720575940608862677
+    color: '#417ea5'
+    nt: excitatory
+  JO-E150_L:
+    id: 720575940621729757
+    color: '#417ea5'
+    nt: excitatory
+  JO-E151_R:
+    id: 720575940632154285
+    color: '#417ea5'
+    nt: excitatory
+  JO-E151_L:
+    id: 720575940639296189
+    color: '#417ea5'
+    nt: excitatory
+  JO-E152_R:
+    id: 720575940628355846
+    color: '#417ea5'
+    nt: excitatory
+  JO-E152_L:
+    id: 720575940619663239
+    color: '#417ea5'
+    nt: excitatory
+  JO-E153_R:
+    id: 720575940612679594
+    color: '#417ea5'
+    nt: excitatory
+  JO-E153_L:
+    id: 720575940646927668
+    color: '#417ea5'
+    nt: excitatory
+  JO-E154_R:
+    id: 720575940624115785
+    color: '#417ea5'
+    nt: excitatory
+  JO-E154_L:
+    id: 720575940615976891
+    color: '#417ea5'
+    nt: excitatory
+  JO-E155_R:
+    id: 720575940622163020
+    color: '#417ea5'
+    nt: excitatory
+  JO-E155_L:
+    id: 720575940612307478
+    color: '#417ea5'
+    nt: excitatory
+  JO-E156_R:
+    id: 720575940615957563
+    color: '#417ea5'
+    nt: excitatory
+  JO-E156_L:
+    id: 720575940611783464
+    color: '#417ea5'
+    nt: excitatory
+  JO-E157_R:
+    id: 720575940605860710
+    color: '#417ea5'
+    nt: excitatory
+  JO-E157_L:
+    id: 720575940634073183
+    color: '#417ea5'
+    nt: excitatory
+  JO-E158_R:
+    id: 720575940619235920
+    color: '#417ea5'
+    nt: excitatory
+  JO-E158_L:
+    id: 720575940632767383
+    color: '#417ea5'
+    nt: excitatory
+  JO-E159_R:
+    id: 720575940614656162
+    color: '#417ea5'
+    nt: excitatory
+  JO-E159_L:
+    id: 985668689202687462
+    color: '#417ea5'
+    nt: excitatory
+JO-F:
+  JO-F0_R:
+    id: 720575940617967188
+    color: '#315f7c'
+    nt: excitatory
+  JO-F0_L:
+    id: 720575940610753503
+    color: '#315f7c'
+    nt: excitatory
+  JO-F1_R:
+    id: 720575940624334827
+    color: '#315f7c'
+    nt: excitatory
+  JO-F1_L:
+    id: 720575940625703434
+    color: '#315f7c'
+    nt: excitatory
+  JO-F2_R:
+    id: 720575940643000480
+    color: '#315f7c'
+    nt: excitatory
+  JO-F2_L:
+    id: 720575940621521917
+    color: '#315f7c'
+    nt: excitatory
+  JO-F3_R:
+    id: 720575940625070067
+    color: '#315f7c'
+    nt: excitatory
+  JO-F3_L:
+    id: 720575940618888368
+    color: '#315f7c'
+    nt: excitatory
+  JO-F4_R:
+    id: 720575940607544329
+    color: '#315f7c'
+    nt: excitatory
+  JO-F4_L:
+    id: 720575940629386819
+    color: '#315f7c'
+    nt: excitatory
+  JO-F5_R:
+    id: 720575940610213785
+    color: '#315f7c'
+    nt: excitatory
+  JO-F5_L:
+    id: 720575940609530653
+    color: '#315f7c'
+    nt: excitatory
+  JO-F6_R:
+    id: 720575940630530263
+    color: '#315f7c'
+    nt: excitatory
+  JO-F6_L:
+    id: 720575940625885512
+    color: '#315f7c'
+    nt: excitatory
+  JO-F7_R:
+    id: 720575940630472727
+    color: '#315f7c'
+    nt: excitatory
+  JO-F7_L:
+    id: 720575940628100614
+    color: '#315f7c'
+    nt: excitatory
+  JO-F8_R:
+    id: 720575940630625132
+    color: '#315f7c'
+    nt: excitatory
+  JO-F8_L:
+    id: 720575940617074004
+    color: '#315f7c'
+    nt: excitatory
+  JO-F9_R:
+    id: 720575940615455230
+    color: '#315f7c'
+    nt: excitatory
+  JO-F9_L:
+    id: 720575940622217992
+    color: '#315f7c'
+    nt: excitatory
+  JO-F10_R:
+    id: 720575940622378281
+    color: '#315f7c'
+    nt: excitatory
+  JO-F10_L:
+    id: 720575940614715295
+    color: '#315f7c'
+    nt: excitatory
+  JO-F11_R:
+    id: 720575940622927242
+    color: '#315f7c'
+    nt: excitatory
+  JO-F11_L:
+    id: 720575940621532413
+    color: '#315f7c'
+    nt: excitatory
+  JO-F12_R:
+    id: 720575940615096495
+    color: '#315f7c'
+    nt: excitatory
+  JO-F12_L:
+    id: 720575940629719404
+    color: '#315f7c'
+    nt: excitatory
+  JO-F13_R:
+    id: 720575940631970144
+    color: '#315f7c'
+    nt: excitatory
+  JO-F13_L:
+    id: 720575940613992565
+    color: '#315f7c'
+    nt: excitatory
+  JO-F14_R:
+    id: 720575940623222271
+    color: '#315f7c'
+    nt: excitatory
+  JO-F14_L:
+    id: 720575940610008217
+    color: '#315f7c'
+    nt: excitatory
+  JO-F15_R:
+    id: 720575940621005677
+    color: '#315f7c'
+    nt: excitatory
+  JO-F15_L:
+    id: 720575940625763015
+    color: '#315f7c'
+    nt: excitatory
+  JO-F16_R:
+    id: 720575940628941762
+    color: '#315f7c'
+    nt: excitatory
+  JO-F16_L:
+    id: 720575940615285393
+    color: '#315f7c'
+    nt: excitatory
+  JO-F17_R:
+    id: 720575940638107445
+    color: '#315f7c'
+    nt: excitatory
+  JO-F17_L:
+    id: 720575940627868471
+    color: '#315f7c'
+    nt: excitatory
+  JO-F18_R:
+    id: 720575940630425285
+    color: '#315f7c'
+    nt: excitatory
+  JO-F18_L:
+    id: 720575940622179497
+    color: '#315f7c'
+    nt: excitatory
+  JO-F19_R:
+    id: 720575940604901310
+    color: '#315f7c'
+    nt: excitatory
+  JO-F19_L:
+    id: 720575940636785205
+    color: '#315f7c'
+    nt: excitatory
+  JO-F20_R:
+    id: 720575940634104159
+    color: '#315f7c'
+    nt: excitatory
+  JO-F20_L:
+    id: 720575940634249567
+    color: '#315f7c'
+    nt: excitatory
+  JO-F21_R:
+    id: 720575940638312270
+    color: '#315f7c'
+    nt: excitatory
+  JO-F21_L:
+    id: 720575940639410035
+    color: '#315f7c'
+    nt: excitatory
+  JO-F22_R:
+    id: 720575940634837343
+    color: '#315f7c'
+    nt: excitatory
+  JO-F22_L:
+    id: 720575940627883087
+    color: '#315f7c'
+    nt: excitatory
+  JO-F23_R:
+    id: 720575940624903757
+    color: '#315f7c'
+    nt: excitatory
+  JO-F23_L:
+    id: 720575940620119005
+    color: '#315f7c'
+    nt: excitatory
+  JO-F24_R:
+    id: 720575940634612843
+    color: '#315f7c'
+    nt: excitatory
+  JO-F24_L:
+    id: 720575940628935564
+    color: '#315f7c'
+    nt: excitatory
+  JO-F25_R:
+    id: 720575940627099006
+    color: '#315f7c'
+    nt: excitatory
+  JO-F25_L:
+    id: 720575940627523584
+    color: '#315f7c'
+    nt: excitatory
+  JO-F26_R:
+    id: 720575940612567449
+    color: '#315f7c'
+    nt: excitatory
+  JO-F26_L:
+    id: 720575940624224408
+    color: '#315f7c'
+    nt: excitatory
+  JO-F27_R:
+    id: 720575940638142953
+    color: '#315f7c'
+    nt: excitatory
+  JO-F27_L:
+    id: 720575940614026269
+    color: '#315f7c'
+    nt: excitatory
+  JO-F28_R:
+    id: 720575940613036914
+    color: '#315f7c'
+    nt: excitatory
+  JO-F28_L:
+    id: 720575940637366335
+    color: '#315f7c'
+    nt: excitatory
+  JO-F29_R:
+    id: 720575940627372184
+    color: '#315f7c'
+    nt: excitatory
+  JO-F29_L:
+    id: 720575940642352117
+    color: '#315f7c'
+    nt: excitatory
+  JO-F30_R:
+    id: 720575940626983293
+    color: '#315f7c'
+    nt: excitatory
+  JO-F30_L:
+    id: 720575940627704375
+    color: '#315f7c'
+    nt: excitatory
+  JO-F31_R:
+    id: 720575940626570648
+    color: '#315f7c'
+    nt: excitatory
+  JO-F31_L:
+    id: 720575940610146713
+    color: '#315f7c'
+    nt: excitatory
+  JO-F32_R:
+    id: 720575940611939314
+    color: '#315f7c'
+    nt: excitatory
+  JO-F32_L:
+    id: 720575940606239243
+    color: '#315f7c'
+    nt: excitatory
+  JO-F33_R:
+    id: 720575940637128538
+    color: '#315f7c'
+    nt: excitatory
+  JO-F33_L:
+    id: 720575940615458594
+    color: '#315f7c'
+    nt: excitatory
+  JO-F34_R:
+    id: 720575940617212929
+    color: '#315f7c'
+    nt: excitatory
+  JO-F34_L:
+    id: 720575940638529525
+    color: '#315f7c'
+    nt: excitatory
+  JO-F35_L:
+    id: 720575940608297774
+    color: '#315f7c'
+    nt: excitatory
+  JO-F35_R:
+    id: 625035941022841440
+    color: '#315f7c'
+    nt: excitatory
+  JO-F36_L:
+    id: 720575940606431189
+    color: '#315f7c'
+    nt: excitatory
+  JO-F36_R:
+    id: 854928420713847447
+    color: '#315f7c'
+    nt: excitatory
+  JO-F37_L:
+    id: 720575940614929245
+    color: '#315f7c'
+    nt: excitatory
+  JO-F37_R:
+    id: 272240236987947701
+    color: '#315f7c'
+    nt: excitatory
+  JO-F38_L:
+    id: 720575940630667587
+    color: '#315f7c'
+    nt: excitatory
+  JO-F38_R:
+    id: 440534415892624834
+    color: '#315f7c'
+    nt: excitatory
+  JO-F39_L:
+    id: 720575940621097398
+    color: '#315f7c'
+    nt: excitatory
+  JO-F39_R:
+    id: 595420260880917805
+    color: '#315f7c'
+    nt: excitatory
+  JO-F40_L:
+    id: 720575940613105311
+    color: '#315f7c'
+    nt: excitatory
+  JO-F40_R:
+    id: 425080706742153107
+    color: '#315f7c'
+    nt: excitatory
+  JO-F41_L:
+    id: 720575940624308355
+    color: '#315f7c'
+    nt: excitatory
+  JO-F41_R:
+    id: 779190650066959399
+    color: '#315f7c'
+    nt: excitatory
+  JO-F42_L:
+    id: 720575940609543197
+    color: '#315f7c'
+    nt: excitatory
+  JO-F42_R:
+    id: 457839633535845512
+    color: '#315f7c'
+    nt: excitatory
+  JO-F43_L:
+    id: 720575940628649465
+    color: '#315f7c'
+    nt: excitatory
+  JO-F43_R:
+    id: 166114593694922962
+    color: '#315f7c'
+    nt: excitatory
+  JO-F44_L:
+    id: 720575940631170346
+    color: '#315f7c'
+    nt: excitatory
+  JO-F44_R:
+    id: 409022190114151408
+    color: '#315f7c'
+    nt: excitatory
+  JO-F45_L:
+    id: 720575940612763242
+    color: '#315f7c'
+    nt: excitatory
+  JO-F45_R:
+    id: 972855459702321559
+    color: '#315f7c'
+    nt: excitatory
+  JO-F46_L:
+    id: 720575940626956777
+    color: '#315f7c'
+    nt: excitatory
+  JO-F46_R:
+    id: 494968788429250781
+    color: '#315f7c'
+    nt: excitatory
+  JO-F47_L:
+    id: 720575940625095813
+    color: '#315f7c'
+    nt: excitatory
+  JO-F47_R:
+    id: 169696152622764607
+    color: '#315f7c'
+    nt: excitatory
+  JO-F48_L:
+    id: 720575940625087546
+    color: '#315f7c'
+    nt: excitatory
+  JO-F48_R:
+    id: 735134112600473377
+    color: '#315f7c'
+    nt: excitatory
+  JO-F49_L:
+    id: 720575940635968745
+    color: '#315f7c'
+    nt: excitatory
+  JO-F49_R:
+    id: 698741664983818357
+    color: '#315f7c'
+    nt: excitatory
+sensory_neurons:
+  BM-Ant_R:
+    id: -15
+    color: '#8db2c9'
+    nt: excitatory
+    cell_type: BM-Ant
+  JO-C_R:
+    id: -3
+    color: '#6798b7'
+    nt: excitatory
+    cell_type: JO-C
+  JO-E_R:
+    id: -7
+    color: '#417ea5'
+    nt: excitatory
+    cell_type: JO-E
+  JO-F_R:
+    id: -2
+    color: '#315f7c'
+    nt: excitatory
+    cell_type: JO-F
+  BM-Ant_L:
+    id: -11
+    color: '#8db2c9'
+    nt: excitatory
+    cell_type: BM-Ant
+  JO-C_L:
+    id: -6
+    color: '#6798b7'
+    nt: excitatory
+    cell_type: JO-C
+  JO-E_L:
+    id: -14
+    color: '#417ea5'
+    nt: excitatory
+    cell_type: JO-E
+  JO-F_L:
+    id: -4
+    color: '#315f7c'
+    nt: excitatory
+    cell_type: JO-F
