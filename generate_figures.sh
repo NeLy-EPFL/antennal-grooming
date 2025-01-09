@@ -80,3 +80,4 @@ done
 # Print total runtime
 echo "Generating all extended data figures took ${entire_runtime} seconds."
 
+exit 0
