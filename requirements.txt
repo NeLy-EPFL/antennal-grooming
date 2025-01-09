@@ -1,0 +1,17 @@
+h5py==3.12.1
+numpy==1.26.4
+scipy==1.15.0
+pandas==1.5.2
+jupyter==1.0.0
+notebook==6.5.2
+seaborn==0.13.2
+statsmodels==0.14.0
+matplotlib==3.10.0
+scikit-learn==1.6.0
+tqdm==4.67.1
+pyyaml==6.0.2
+networkx==3.4.2
+mycolorpy==1.5.1
+matplotlib_venn==1.1.1
+neuprint-python==0.4.26
+jupyter_contrib_nbextensions==0.7.0
