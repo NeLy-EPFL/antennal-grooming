@@ -99,7 +99,7 @@ Data generated in this paper have been obtained using several other repositories
 ---
 ## 🐞 Questions
 Please get in touch if you have any questions or comments!
-You can open an issue on our [issues page](https://github.com/NeLy-EPFL/antennal-grooming/issues) or e-mail us directly at pembe.ozdil@epfl.ch
+You can open an issue on our [issues page](https://github.com/NeLy-EPFL/antennal-grooming/issues) or e-mail us directly at pgizemozdil@gmail.com
 
 ---
 ## 💬 Citing
