@@ -3,6 +3,7 @@
 This repository provides the code for reproducing results from
 [**Centralized brain networks underlie grooming body part coordination**](https://www.biorxiv.org/content/10.1101/2024.12.17.628844v1).
 
+[![DOI](https://zenodo.org/badge/860967756.svg)](https://doi.org/10.5281/zenodo.19134744)
 ---
 
 ## 📂 Repository Structure
