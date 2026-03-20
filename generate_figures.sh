@@ -9,7 +9,7 @@ cd src
 echo "Generating main figures..."
 entire_runtime=0
 # Iterate notebooks from 1 to 6
-for i in {1..6}; do
+for i in {1..7}; do
     echo "Running Figure${i}.ipynb..."
 
     # Record the start time (in seconds)
@@ -44,7 +44,7 @@ echo "Generating all main figures took ${entire_runtime} seconds."
 echo "Generating extended data figures..."
 entire_runtime=0
 # Iterate notebooks from 1 to 6
-for i in {1..12}; do
+for i in {1..13}; do
     # Skip 5
     if [ $i -eq 5 ]; then
         continue
