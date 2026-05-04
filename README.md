@@ -1,7 +1,7 @@
 # 🧠 Centralized brain networks underlie grooming body part coordination
 
 This repository provides the code for reproducing results from
-[**Centralized brain networks underlie grooming body part coordination**](https://www.biorxiv.org/content/10.1101/2024.12.17.628844v1).
+[**Centralized brain networks controlling antennal grooming coordination**]([https://www.biorxiv.org/content/10.1101/2024.12.17.628844v1](https://www.nature.com/articles/s41467-026-72152-x)).
 
 [![DOI](https://zenodo.org/badge/860967756.svg)](https://doi.org/10.5281/zenodo.19134744)
 ---
@@ -106,14 +106,11 @@ You can open an issue on our [issues page](https://github.com/NeLy-EPFL/antennal
 ## 💬 Citing
 If you find this package useful in your research, please consider citing it using the following BibTeX entry:
 ```bibtex
-@article{
-    ozdil_2024_centralized,
-    author = {{\"O}zdil, Pembe Gizem and Arreguit, Jonathan and Scherrer, Clara and Ijspeert, Auke and Ramdya, Pavan},
-    title = {Centralized brain networks underlie body part coordination during grooming},
-    year = {2024},
-    doi = {10.1101/2024.12.17.628844},
-    publisher = {Cold Spring Harbor Laboratory},
-    URL = {https://www.biorxiv.org/content/early/2024/12/17/2024.12.17.628844},
-    journal = {bioRxiv}
+@article{ozdil2026centralized,
+  title={Centralized brain networks controlling antennal grooming coordination},
+  author={{\"O}zdil, Pembe Gizem and Arreguit, Jonathan and Scherrer, Clara and Hurtak, Femke and Ijspeert, Auke and Ramdya, Pavan},
+  journal={Nature Communications},
+  year={2026},
+  publisher={Nature Publishing Group UK London}
 }
 ```
